@@ -1,4 +1,7 @@
-### Junior Software Engineer With Revature
+# Full Stack Web Developer with experience in Angular, React, Express, Java and Spring
+
+## Currently transitioning from Revature to InfoSys
+
 
 <!--
 **GormTheWyrm/GormTheWyrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
