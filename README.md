@@ -1,4 +1,5 @@
-# Full Stack Web Developer with experience in Angular, React, Express, Java and Spring
+# Full Stack Web Developer <br/>
+with experience in Angular, React, Express, Java and Spring
 
 ## Currently transitioning from Revature to InfoSys
 
